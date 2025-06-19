@@ -11,5 +11,5 @@ I'm a software developer and the founder of CraftlyTech, where I focus on crafti
 
 - I build web apps that stand out
 - Tiny solo web dev studio at [CraftlyTech](https://www.craftlytech.com/)
-- Sharing updates on <a href="https://www.linkedin.com/in/darshil-patel-42307a257/">LinkedIn</a> 
+- Sharing updates on <a href="https://www.linkedin.com/in/darshil-patel-42307a257">LinkedIn</a> 
 - Tech, projects and shitposting at [Twitter](https://x.com/darshilptl03)
