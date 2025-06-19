@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/99990c46-1f57-49ca-aca4-af6c3d962bdd" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/user-attachments/assets/beb18c47-2954-472b-b42b-8151978263a0" alt="banner that says Darshil Patel - Designer & Developer">
 
 I'm a software developer and the founder of CraftlyTech, where I focus on crafting high-performance software that stands out. My goal is to build clean, reliable, and scalable solutions that create real value. At CraftlyTech, I develop and sell pre-built templates designed to accelerate development workflows, and I also write blogs to share what I learn and help others navigate technical topics more easily. I enjoy working across the full stack, primarily with technologies like Next.js, React.js, Node.js, SQL, and MongoDB. I'm always learning and genuinely grateful for the opportunity to build, collaborate, and contribute to the developer community.
 
