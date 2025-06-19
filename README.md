@@ -4,10 +4,10 @@ I'm a software developer and the founder of <a href="https://www.craftlytech.com
 
 ##
 
-<a href="https://github.com/darshilptl"><img align="right" width="60" height="60" src="https://github.com/user-attachments/assets/be925434-a07c-4e9f-9a24-d56f937797c8"></a>
-<a href="https://github.com/darshilptl"><img align="right" width="60" height="60" src="https://github.com/user-attachments/assets/1355cc1e-bbdd-4406-a9b4-2a9bcec2bec2"></a>
-<a href="https://github.com/darshilptl"><img align="right" width="60" height="60" src="https://github.com/user-attachments/assets/551b1b85-9ff0-4ed8-9486-0ee8c6ef6796"></a>
 <a href="https://github.com/darshilptl"><img align="right" width="60" height="60" src="https://github.com/user-attachments/assets/23959ead-2196-4e42-9393-d6311e581c83"></a>
+<a href="https://github.com/darshilptl"><img align="right" width="60" height="60" src="https://github.com/user-attachments/assets/551b1b85-9ff0-4ed8-9486-0ee8c6ef6796"></a>
+<a href="https://github.com/darshilptl"><img align="right" width="60" height="60" src="https://github.com/user-attachments/assets/1355cc1e-bbdd-4406-a9b4-2a9bcec2bec2"></a>
+<a href="https://github.com/darshilptl"><img align="right" width="60" height="60" src="https://github.com/user-attachments/assets/be925434-a07c-4e9f-9a24-d56f937797c8"></a>
 
 - I build web apps that stand out
 - Tiny solo web dev studio at [CraftlyTech]([https://aceternity.com](https://www.craftlytech.com/)) 
