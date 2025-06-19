@@ -10,6 +10,6 @@ I'm a software developer and the founder of CraftlyTech, where I focus on crafti
 <a href="https://github.com/darshilptl"><img align="right" width="60" height="60" src="https://github.com/user-attachments/assets/be925434-a07c-4e9f-9a24-d56f937797c8"></a>
 
 - I build web apps that stand out
-- Tiny solo web dev studio at [CraftlyTech]([https://aceternity.com](https://www.craftlytech.com/)) 
+- Tiny solo web dev studio at [CraftlyTech](https://www.craftlytech.com/)]
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 
 - Tech, projects and shitposting at [Twitter](https://twitter.com/mannupaaji)
